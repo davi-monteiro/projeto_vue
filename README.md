@@ -4,9 +4,9 @@
 
 <h2>Como iniciar o aplicativo</h2>
   <ul>
-    <li>Instalar o node e iniciar a aplicação</li>
-    <li>Iniciar o server da aplicação ("npm rum serve")</li>
-    <li>Iniciar o "banco de dados" em json que tem algumas informações básicas para montar um burger e onde vai salvar os pedidos</li>
+    <li>## Project setup: npm install </li>
+    <li>## Compiles: npm run serve </li>
+    <li>## DataBase Json: npm run dbjs </li>
   </ul>
 
  
